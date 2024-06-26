@@ -16,7 +16,7 @@ Week number of the year: 44
 
 expected output
 
-Note: Each result line should be created by calling the strftime method with at least one directive in the format argument.'''
+Note: Each result line should be created by calling the strftime  method with at least one directive in the format argument.'''
 
 from datetime import datetime
 
